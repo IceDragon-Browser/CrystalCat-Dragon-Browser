@@ -1,7 +1,7 @@
 [![pipeline status](https://gitlab.com/garuda-linux/firedragon/builder/badges/main/pipeline.svg)](https://gitlab.com/garuda-linux/firedragon/builder/-/commits/main)
 [![Latest Release](https://gitlab.com/garuda-linux/firedragon/builder/-/badges/release.svg)](https://gitlab.com/garuda-linux/firedragon/builder/-/releases)
 
-# IceDragon Browser
+# CrystalCat Dragon Browser
 
 Highly Secure Web Browser for the TesseraQt-GNU OS Project
 
